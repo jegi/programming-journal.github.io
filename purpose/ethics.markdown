@@ -48,7 +48,7 @@ Any papers received for review must be treated as confidential. They must not be
 
 #### Reviewing Standards
 
-All reviews should be made without regard to the authors' race, gender, sexual orientation, religious belief, ethnic origin, citizenship, or political philosophy. Reviewers should clearly identify the main ideas of the paper, and proceed to assess their fitness with respect to the criteria outlined here (https://programming-journal.org/cfp/). Personal criticism of the authors is inappropriate and shall be flagged as such by the assigned Associate Editor. When appropriate, reviewers should strive to give suggestions of how the paper can be improved. Reviewers should identify cases in which relevant published work referred to in the paper has not been cited. They should point out whether observations or arguments derived from other publications are accompanied by the respective source. Reviewers will notify the Associate Editor of any substantial similarity or overlap between the manuscript under consideration and any other published paper of which they have personal knowledge.
+All reviews should be made without regard to the authors' race, gender, sexual orientation, religious belief, ethnic origin, citizenship, or political philosophy. Reviewers should clearly identify the main ideas of the paper, and proceed to assess their fitness with respect to the criteria outlined [here](/cfp/). Personal criticism of the authors is inappropriate and shall be flagged as such by the assigned Associate Editor. When appropriate, reviewers should strive to give suggestions of how the paper can be improved. Reviewers should identify cases in which relevant published work referred to in the paper has not been cited. They should point out whether observations or arguments derived from other publications are accompanied by the respective source. Reviewers will notify the Associate Editor of any substantial similarity or overlap between the manuscript under consideration and any other published paper of which they have personal knowledge.
 
 #### Disclosure and Conflicts of Interest
 
@@ -65,6 +65,13 @@ Authors of original research papers should present an accurate account of the wo
 in the paper. Sources of data and ideas used in the reported work should be properly cited. A paper should contain sufficient detail and references to permit others to replicate the work. Fraudulent or knowingly inaccurate statements constitute unethical behavior and are unacceptable.
 
 Authors of Essays and other analytical works should use appropriate care with material that has been previously published, so not to mislead readers in thinking it is original material.
+
+
+#### Plagiarism
+
+Plagiarism is the misrepresentation of someone else's work as one's own, for example by incorporating it without appropriate attribution. The work might be words, or ideas, or programs, or pictures, among others; it might be copied verbatim, or paraphrased, or generated. It is irrelevant whether the original source has been formally published, or whether the original creator has granted permission.
+
+Plagiarism is academic misconduct, and any plagiarising submission will be summarily rejected.
 
 
 #### Data access and retention
